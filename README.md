@@ -1,16 +1,16 @@
 # Ciao, I'm Diletta 👋
 I'm a **Sofware Engineering Manager** and still love to do some **Frontend** projects.
 
-⚡ I embracing a servant leadership style, I prioritize transparent communication, trust, empathy, and empowerment to enable team members to excel.
+:zap: I'm embracing a servant leadership style, I prioritize transparent communication, trust, empathy, and empowerment to enable team members to excel.
 
 ## My core values
-💪 **EMPOWERMENT**: Providing resources and support to foster individual and team growth, enabling autonomy and initiative.
+:muscle: **EMPOWERMENT**: Providing resources and support to foster individual and team growth, enabling autonomy and initiative.
 
-💧 **AUTHENTICITY**: Embracing transparency and honesty in communication to build trust and credibility within the team.
+:droplet: **AUTHENTICITY**: Embracing transparency and honesty in communication to build trust and credibility within the team.
 
-🐾 **GUIDANCE**: Recognizing unique strengths and offering tailored direction to maximize potential.
+:paw_prints: **GUIDANCE**: Recognizing unique strengths and offering tailored direction to maximize potential.
 
-🤝 **TRUST**: Cultivating an environment of mutual respect, empowerment, and collaboration, where individuals feel valued and capable of making meaningful contributions.
+:handshake: **TRUST**: Cultivating an environment of mutual respect, empowerment, and collaboration, where individuals feel valued and capable of making meaningful contributions.
 
 ### My soft skills
 In navigating **diverse situations**, I exhibit proficiency in **team management**, smoothly **resolving conflicts**, and efficiently adjusting **prioritizations** between changes. 
@@ -35,7 +35,7 @@ ensuring **efficient development processes** and **high-quality products**.
 ## More about me and contact
 You can read more about my experience on my personal website [diletta.dev](http://diletta.dev) or in [linkedIn](https://www.linkedin.com/in/diletta-ci/).
 
-✍️ You'll also find some blog articles related to things I learned on my way to Engineering Management and books I read. 
+:writing_hand: You'll also find some blog articles related to things I learned on my way to Engineering Management and books I read. 
 
 
 
@@ -43,7 +43,7 @@ _Lastly, and only because humor is part of me, a random developer joke for you, 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-Ciao 🙃
+Ciao :upside_down_face:
 <!--
 **diletta-ci/diletta-ci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
